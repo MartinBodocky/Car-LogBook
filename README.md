@@ -2,6 +2,8 @@
 
 Offline-first PWA for recording mileage and driver logs for shared company cars. Works without internet (e.g., in a garage) and syncs when online.
 
+nieco
+
 ## Features
 
 - **Offline-first**: Works fully without network. Installable as a PWA.
